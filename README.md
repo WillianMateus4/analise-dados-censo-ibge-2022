@@ -46,3 +46,9 @@ Este projeto serviu para treinar as seguintes habilidades:
 
 ---
 *Desenvolvido como parte do meu portfólio de estudos em Análise de Dados.*
+
+## 👤 Autor
+
+**Willian Mateus** | *Data Analyst & BI*
+
+ ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4).
