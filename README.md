@@ -49,6 +49,6 @@ Este projeto serviu para treinar as seguintes habilidades:
 
 ## 👤 Autor
 
-**Willian Mateus** | *Data Analyst & BI*
+**Willian Mateus** | *Data Analyst & Business Intelligence*
 
- ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4).
+ℹ️ Para saber mais sobre mim, ver meus outros projetos ou entrar em contato, visite meu [Perfil do GitHub](https://github.com/WillianMateus4).
